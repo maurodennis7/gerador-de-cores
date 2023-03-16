@@ -1,4 +1,4 @@
-# contador-de-letras
+# gerador-de-cores-randomicas
 
 ## 🚀 Tecnologias
 
